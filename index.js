@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
-const TOKEN = "MzE4Nzg2NTYyMTY0OTE2MjI1.DBk8Hg.itVAUmJHGe3qAcnwX1moYDn-YN4";
+const TOKEN = "RANDOM ASS TOKEN";
 const ARRPREFIX = ["**", ";;", "!t", "!overwatch", "^^", "!", "!stc"];
 
 bot.on("ready", function() {
